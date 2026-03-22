@@ -48,7 +48,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     </div>
     
     <div class="mt-8 text-sm text-gray-500 font-medium bg-white px-4 py-2 rounded-full shadow-sm">
-        ✨ พัฒนาส่วนหน้าบ้าน (Frontend) โดย: [ใส่รหัสนักศึกษา] [ใส่ชื่อ-นามสกุล ของนาย A]
+        ✨ พัฒนาส่วนหน้าบ้าน (Frontend) โดย: [67700300] [สุริยา ถือนิล]
     </div>
 </body>
 </html>
