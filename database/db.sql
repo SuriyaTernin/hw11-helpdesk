@@ -2,7 +2,7 @@
 CREATE DATABASE IF NOT EXISTS `helpdesk_db`;
 USE `helpdesk_db`;
 
-CREATE TABLE `tickets` (
+CREATE TABLE `tickets` (f
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `student_name` varchar(100) NOT NULL,
   `device_name` varchar(100) NOT NULL,
